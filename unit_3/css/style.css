@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+	font-family: helvetica;
+	}
+	h1 {
+	color: grey;
+	font-weight: normal;
+	font-size: 46px;
+}
+#slogan {
+	color: grey;
+	font-style: italic;
+	font-size: 16px;
+}
+#about {
+	text-align: justify;
+	font-size: 16px;
+	color: black;
+}
+footer {
+	height: 50px;
+	background-color: #53CBF0;
+    color: black;
+}
+a {
+     color: black;
+}
