@@ -3,45 +3,44 @@
 @import url(https://fonts.googleapis.com/css?family=Alegreya+Sans);
 
 * {
-	margin: 0
+	margin: 0;
 	padding: 0;
 }
 body {
-	text-align: center;
-	background-color: #030817;
-	}
-	h1 {
+	text-align: left;
 	color: white;
+	background: url(../images/beachoffice.jpg);
+	background-size: cover;
+	margin-top: 50px;
+	margin-left: 20px;
+		}
+	h1 {
 	font-weight: normal;
 	font-size: 48px;
 	font-family: 'Josefin Slab', serif;
 	margin: 0px;
 	}
 #slogan {
-	color: white;
-	text-align: center;
 	margin: 0px;
 	font-size: 1.5em;
 	font-family: 'Josefin Slab', serif;
 }
-hr {width: 350px;
-}
+hr {width: 500px;
+	margin-bottom: 10px;
+		}
 #about {
 	font-size: 1em;
-	color: white;
 	font-family: 'Alegreya Sans', sans-serif;
 	width: 500px;
-	text-align: center;
-	margin-left: 420px;
+	text-align: justify;
 	}
 
 footer {
 	height: 50px;
-	background-color: #2153FF;
-    color: black;
+	color: black;
     text-align: right;
-    margin: 0;
-}
+    margin-bottom: 20px;
+    }
 a {
      color: black;
-     font-family: 'Alegreya Sans", sans-serif; }
+     font-family: 'Alegreya Sans', sans-serif; }
